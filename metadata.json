@@ -1,0 +1,6 @@
+{
+  "name": "SwasthNova",
+  "description": "Multilingual healthcare operations and resource intelligence system for District Health Administrators, CHCs, and PHCs, featuring real-time monitoring, AI forecasting, smart redistribution, and interactive GIS mapping.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
